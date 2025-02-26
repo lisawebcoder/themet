@@ -1,0 +1,13 @@
+Version: 1.4 (2014.05.13)
+	+ Added region id to search form on side bar, search will be done within active region.
+Version: 1.3 (2014.02.08)
+	+ Added compatability to version 3.3.2
+	+ Added support for Fineuploader - ajax drag and drop image upload
+	+ Added "Custom CSS" field to add extra CSS code to the theme. Find it under "Appearance"->"Theme settings" when Minimalist theme selected.
+Version: 1.2 (2013.07.30)
+	+ Added compatability to version 3.2
+	+ Bug fix for mobile view, added viewport meta-tag to header.
+Version: 1.1 (2013.07.20)
+	+ Checking if fancybox.js loaded before using it in global.js. This prevents javascript error on demo site.
+Version: 1.0 (2013.07.18)
+	+ Initial release

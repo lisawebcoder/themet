@@ -1,0 +1,1042 @@
+# Copyright (C) 2013 Osclass
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AIClassy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-03 16:40:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-05-20 15:37+0500\n"
+"Last-Translator: shahab <shahab@wdnec.com>\n"
+"Language-Team: Wdnec <shahab@wdnec.com>\n"
+"Language: ru\n"
+"X-Generator: Poedit 1.8\n"
+
+#: 404.php:8
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Жаль, но я не могу найти страницу, которую вы ищете"
+
+#: 404.php:10
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr ""
+"Позвольте нам помочь вам, мы получили несколько советов для вас, чтобы найти "
+"его."
+
+#: 404.php:13
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong> Поиск </ strong> для него:"
+
+#: 404.php:18 header.php:73
+msgid "Search"
+msgstr "Поиск"
+
+#: 404.php:22
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong> смотреть </ strong> ибо в самых популярных категорий."
+
+#: admin/header.php:7 functions.php:526
+msgid "Header logo"
+msgstr "Заголовок логотип"
+
+#: admin/header.php:13
+msgid "Preview"
+msgstr "предварительный просмотр"
+
+#: admin/header.php:20
+msgid "Remove logo"
+msgstr "Удалить логотип"
+
+#: admin/header.php:28
+msgid "No logo has been uploaded yet"
+msgstr "Нет логотип был загружен еще"
+
+#: admin/header.php:31
+msgid "Upload logo"
+msgstr "Загрузить логотип"
+
+#: admin/header.php:33
+msgid "The preferred size of the logo is 600x100."
+msgstr "Предпочтительный размер логотипа является 600x100."
+
+#: admin/header.php:35
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr ""
+"<strong> заметка: </ strong>Загрузка другой логотип будет перезаписывать "
+"текущий логотип."
+
+#: admin/header.php:43
+msgid "Logo image (png,gif,jpg)"
+msgstr "Изображение логотипа (PNG, GIF, JPG)"
+
+#: admin/header.php:49
+msgid "Upload"
+msgstr "Загрузить"
+
+#: admin/header.php:58
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr ""
+"Папка изображения<strong>%s </ strong>это не для записи на вашем сервере"
+
+#: admin/header.php:59
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass не можете загрузить изображение логотипа с панели управления."
+
+#: admin/header.php:60
+msgid "Please make the aforementioned image folder writable."
+msgstr "Пожалуйста, вышеупомянутый пишущей папке изображений."
+
+#: admin/header.php:65
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+"Чтобы сделать запись каталога под UNIX выполнить эту команду из оболочки:"
+
+#: admin/settings.php:14
+msgid ""
+"I would like to contribute to the development of Osclass with a donation of"
+msgstr "Я хотел бы внести свой вклад в развитие Osclass с пожертвование"
+
+#: admin/settings.php:19
+msgid "Custom"
+msgstr "обычай"
+
+#: admin/settings.php:20
+msgid "Donate"
+msgstr "жертвовать"
+
+#: admin/settings.php:24 functions.php:527
+msgid "Theme settings"
+msgstr "настройки темы"
+
+#: admin/settings.php:30
+msgid "Search placeholder"
+msgstr "Поиск заполнитель"
+
+#: admin/settings.php:34
+msgid "Show lists as:"
+msgstr "Показать списки как:"
+
+#: admin/settings.php:37
+msgid "Gallery"
+msgstr "галерея"
+
+#: admin/settings.php:38 main.php:45 search.php:80
+msgid "List"
+msgstr "список"
+
+#: admin/settings.php:43
+msgid "Footer link"
+msgstr "Footer ссылка"
+
+#: admin/settings.php:45
+msgid ""
+"I want to help Osclass by linking to <a href=\"http://osclass.org/\" target="
+"\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr ""
+"Я хочу помочь Osclass, связываясь с<a href=\"http://osclass.org/\" target="
+"\"_blank\"> osclass.org </a> с моего сайта со следующим текстом:"
+
+#: admin/settings.php:46
+msgid ""
+"This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr ""
+"Этот сайт является гордостью помощью <a title=\"Osclass web\" href=\"http://"
+"osclass.org/\"> Объявления скрипты</a> программное обеспечение <strong> "
+"Osclass </ strong>"
+
+#: admin/settings.php:50
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: alert-form.php:27
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Вы успешно подписались на оповещения"
+
+#: alert-form.php:28 user-change_email.php:77
+msgid "Invalid email address"
+msgstr "Неправильный адрес электронной почты"
+
+#: alert-form.php:29
+msgid "There was a problem with the alert"
+msgstr "Существовал проблема с предупреждением"
+
+#: alert-form.php:60
+msgid "Subscribe to this search"
+msgstr "Подписаться этот поиск"
+
+#: alert-form.php:75
+msgid "Subscribe now"
+msgstr "Подпишитесь сейчас"
+
+#: common/head.php:3 item.php:157 loop-single-premium.php:26 loop-single.php:26
+msgid "Delete"
+msgstr "удалять"
+
+#: common/head.php:4
+msgid "Cancel"
+msgstr "отменить"
+
+#: common/head.php:50
+msgid "Previous image"
+msgstr "Предыдущее изображение"
+
+#: common/head.php:51
+msgid "Next image"
+msgstr "Следующее изображение"
+
+#: common/head.php:52
+msgid "Close"
+msgstr "близко"
+
+#: contact.php:31
+msgid "Contact us"
+msgstr "свяжитесь с нами"
+
+#: contact.php:40 item-send-friend.php:44 item-sidebar.php:76 item.php:183
+#: user-public-sidebar.php:33
+msgid "Your name"
+msgstr "твое имя"
+
+#: contact.php:41 contact.php:54 item-sidebar.php:84 user-public-sidebar.php:41
+msgid "optional"
+msgstr "необязательный"
+
+#: contact.php:47 user-public-sidebar.php:37
+msgid "Your email address"
+msgstr "Ваш электронный адрес"
+
+#: contact.php:53
+msgid "Subject"
+msgstr "тема"
+
+#: contact.php:60 item-send-friend.php:78 item-sidebar.php:89
+#: user-public-sidebar.php:46
+msgid "Message"
+msgstr "сообщение"
+
+#: contact.php:68 item-send-friend.php:87 item-sidebar.php:119 item.php:208
+#: user-public-sidebar.php:69
+msgid "Send"
+msgstr "послать"
+
+#: footer.php:34 header.php:42
+msgid "Hi %s"
+msgstr "Привет %s"
+
+#: footer.php:35 header.php:43
+msgid "My account"
+msgstr "мой аккаунт"
+
+#: footer.php:36 header.php:44
+msgid "Logout"
+msgstr "Выход"
+
+#: footer.php:39 functions.php:355 header.php:47 item-sidebar.php:54
+msgid "Login"
+msgstr "Войти"
+
+#: footer.php:42 header.php:49 item-sidebar.php:55 user-login.php:58
+msgid "Register for a free account"
+msgstr "Регистрация на бесплатный аккаунт"
+
+#: footer.php:49 header.php:54
+msgid "Publish your ad for free"
+msgstr "Опубликовать объявление бесплатно"
+
+#: footer.php:64 functions.php:359 user-public-sidebar.php:26
+msgid "Contact"
+msgstr "контакт"
+
+#: footer.php:74
+msgid "Language:"
+msgstr "Язык:"
+
+#: functions.php:29
+msgid "ie. PHP Programmer"
+msgstr "то есть. PHP программист"
+
+#: functions.php:340 item-post.php:40
+msgid "Publish a listing"
+msgstr "Опубликовать список"
+
+#: functions.php:341
+msgid "Edit your listing"
+msgstr "Редактировать свою страницу дополнительные сведения"
+
+#: functions.php:342 item-send-friend.php:31
+msgid "Send to a friend"
+msgstr "Отправить другу"
+
+#: functions.php:343 item-sidebar.php:40
+msgid "Contact publisher"
+msgstr "Связаться с издателем"
+
+#: functions.php:344
+msgid "Search results"
+msgstr "результаты поиска"
+
+#: functions.php:345
+msgid "Search results: %s"
+msgstr "результаты поиска: %s"
+
+#: functions.php:346
+msgid "Dashboard"
+msgstr "приборная панель"
+
+#: functions.php:347
+msgid "%s's profile"
+msgstr "%s профиль"
+
+#: functions.php:348 functions.php:397
+msgid "Account"
+msgstr "счет"
+
+#: functions.php:349 functions.php:387 search.php:128 user-alerts.php:51
+msgid "Listings"
+msgstr "Объявления"
+
+#: functions.php:350 functions.php:392 user-alerts.php:32 user-alerts.php:37
+msgid "Alerts"
+msgstr "Предупреждения"
+
+#: functions.php:351 user-profile.php:32 user-profile.php:37
+msgid "Update account"
+msgstr "Обновление счет"
+
+#: functions.php:352 functions.php:402
+msgid "Change email"
+msgstr "Изменение электронной почте"
+
+#: functions.php:353 functions.php:407 user-change_username.php:34
+#: user-change_username.php:39
+msgid "Change username"
+msgstr "Изменить имя пользователя"
+
+#: functions.php:354 functions.php:357 functions.php:412
+#: user-change_password.php:32 user-change_password.php:37
+#: user-forgot_password.php:52
+msgid "Change password"
+msgstr "сменить пароль"
+
+#: functions.php:356
+msgid "Recover password"
+msgstr "Восстановить пароль"
+
+#: functions.php:358
+msgid "Create a new account"
+msgstr "Создать новую учетную запись"
+
+#: functions.php:382
+msgid "Public Profile"
+msgstr "Открытый профиль"
+
+#: functions.php:417 user-sidebar.php:28
+msgid "Delete account"
+msgstr "Удалить аккаунт"
+
+#: functions.php:474
+msgid "Theme settings updated correctly"
+msgstr "Настройки темы обновляются правильно"
+
+#: functions.php:489
+msgid "The logo image has been uploaded correctly"
+msgstr "Логотип изображение было загружено правильно"
+
+#: functions.php:491
+msgid "An error has occurred, please try again"
+msgstr "Произошла ошибка, попробуйте еще раз"
+
+#: functions.php:502
+msgid "The logo image has been removed"
+msgstr "Логотип изображение было удалено"
+
+#: functions.php:504
+msgid "Image not found"
+msgstr "Изображение не найдено"
+
+#: functions.php:585 functions.php:607
+msgid "All categories"
+msgstr "Все категории"
+
+#: header.php:67 item-post.php:55
+msgid "Select a category"
+msgstr "Выберите категорию"
+
+#: item-post.php:51
+msgid "General Information"
+msgstr "Общая информация"
+
+#: item-post.php:53
+msgid "Category"
+msgstr "категория"
+
+#: item-post.php:59 item.php:196
+msgid "Title"
+msgstr "название"
+
+#: item-post.php:65 user-profile.php:106
+msgid "Description"
+msgstr "описание"
+
+#: item-post.php:72 search-sidebar.php:61
+msgid "Price"
+msgstr "цена"
+
+#: item-post.php:83
+msgid "Listing Location"
+msgstr "Листинг Откуда"
+
+#: item-post.php:86 user-profile.php:70
+msgid "Country"
+msgstr "страна"
+
+#: item-post.php:92 user-profile.php:76
+msgid "Region"
+msgstr "регион"
+
+#: item-post.php:98 search-sidebar.php:44 user-profile.php:82
+msgid "City"
+msgstr "Сити"
+
+#: item-post.php:104
+msgid "City Area"
+msgstr "Город Область"
+
+#: item-post.php:110 user-profile.php:94
+msgid "Address"
+msgstr "адрес"
+
+#: item-post.php:119
+msgid "Seller's information"
+msgstr "Информация Продавца"
+
+#: item-post.php:121 item-sidebar.php:59 user-profile.php:46
+#: user-register.php:39
+msgid "Name"
+msgstr "название"
+
+#: item-post.php:127 user-login.php:38 user-recover.php:37 user-register.php:45
+msgid "E-mail"
+msgstr "E-mail"
+
+#: item-post.php:134
+msgid "Show e-mail on the listing page"
+msgstr "Показать электронную почту на странице перечисления"
+
+#: item-post.php:153 user-change_email.php:59 user-change_password.php:64
+#: user-change_username.php:102 user-profile.php:113
+msgid "Update"
+msgstr "обновление"
+
+#: item-post.php:153
+msgid "Publish"
+msgstr "публиковать"
+
+#: item-send-friend.php:50 item.php:189
+msgid "Your e-mail"
+msgstr "Ваш адрес электронной почты"
+
+#: item-send-friend.php:57
+msgid "Your friend's name"
+msgstr "Имя вашего друга"
+
+#: item-send-friend.php:63
+msgid "Your friend's e-mail address"
+msgstr "Адрес электронной почты Вашего друга"
+
+#: item-send-friend.php:70
+msgid "Subject (optional)"
+msgstr "Тема (по желанию)"
+
+#: item-sidebar.php:30
+msgid "Mark as..."
+msgstr "Отметить как ..."
+
+#: item-sidebar.php:31
+msgid "Mark as spam"
+msgstr "Отметить как спам"
+
+#: item-sidebar.php:32
+msgid "Mark as misclassified"
+msgstr "Отметить как неправильно классифицирован"
+
+#: item-sidebar.php:33
+msgid "Mark as duplicated"
+msgstr "Отметить как экземплярах"
+
+#: item-sidebar.php:34
+msgid "Mark as expired"
+msgstr "Отметить как истек"
+
+#: item-sidebar.php:35
+msgid "Mark as offensive"
+msgstr "Отметить как наступление"
+
+#: item-sidebar.php:43
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "Перечень истек. Вы не можете связаться с издателем."
+
+#: item-sidebar.php:47
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Это ваш собственный список, вы не можете связаться с издателем."
+
+#: item-sidebar.php:51
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"Вы должны войти или зарегистрировать новую учетную запись для того, чтобы "
+"связаться с рекламодателем"
+
+#: item-sidebar.php:61
+msgid "Name: %s"
+msgstr "название:%s"
+
+#: item-sidebar.php:64
+msgid "E-mail: %s"
+msgstr "E-mail:%s"
+
+#: item-sidebar.php:67
+msgid "Phone: %s"
+msgstr "телефон: %s"
+
+#: item-sidebar.php:80
+msgid "Your e-mail address"
+msgstr "Ваш электронный адрес"
+
+#: item-sidebar.php:84 user-public-sidebar.php:41
+msgid "Phone number"
+msgstr "телефонный номер"
+
+#: item-sidebar.php:95
+msgid "Attachment"
+msgstr "крепление"
+
+#: item-sidebar.php:113 user-public-sidebar.php:63
+msgid "Enter the words above"
+msgstr "Введите слова выше"
+
+#: item-sidebar.php:115 user-public-sidebar.php:65
+msgid "Help"
+msgstr "Помогите"
+
+#: item.php:55
+msgid "<strong class=\"publish\">Published date</strong>: %1$s"
+msgstr "<strong class = \"publish \"> дата публикации </ strong>: %1$s"
+
+#: item.php:58
+msgid "<strong class=\"update\">Modified date:</strong> %1$s"
+msgstr "<strong class = \"Update \"> дата изменения: </ strong> %1$s"
+
+#: item.php:61 main.php:67
+msgid "Location"
+msgstr "расположение"
+
+#: item.php:67 loop-single-premium.php:24 loop-single.php:24
+msgid "Edit item"
+msgstr "Редактировать элемент"
+
+#: item.php:79 item.php:84
+msgid "Image"
+msgstr "изображение"
+
+#: item.php:113
+msgid "Contact seller"
+msgstr "Связаться с продавцом"
+
+#: item.php:117
+msgid "Share"
+msgstr "доля"
+
+#: item.php:123
+msgid "Useful information"
+msgstr "Полезная информация"
+
+#: item.php:125
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Чтобы избежать мошенничества, или платите с PayPal"
+
+#: item.php:126
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Никогда не платите с Western Union и или другие анонимные платежные системы"
+
+#: item.php:127
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Не покупайте и не продавайте за пределами вашей страны. Не принимайте "
+"банковские чеки за пределами вашей страны"
+
+#: item.php:128
+msgid ""
+"This site is never involved in any transaction, and does not handle payments, "
+"shipping, guarantee transactions, provide escrow services, or offer \"buyer "
+"protection\" or \"seller certification\""
+msgstr ""
+"Этот сайт никогда не участвует в сделках и не проводит платежи, доставку, не "
+"гарантирует сделки, не гарантирует сделки и не предоставляет \"защиты "
+"покупатель \" или \"продавец сертификации \""
+
+#: item.php:135
+msgid "Related listings"
+msgstr "Похожие объявления"
+
+#: item.php:146
+msgid "Comments"
+msgstr "Комментарии"
+
+#: item.php:153
+msgid "by"
+msgstr "по"
+
+#: item.php:157
+msgid "Delete your comment"
+msgstr "Удалить комментарий"
+
+#: item.php:169
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr ""
+"Оставьте свой комментарий (спам и оскорбительные сообщения будут удалены)"
+
+#: item.php:202
+msgid "Comment"
+msgstr "комментарий"
+
+#: loop-single-premium.php:26 loop-single.php:26
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Это действие не может быть отменено. Вы уверены, что хотите продолжить?"
+
+#: loop-single-premium.php:29 loop-single.php:29
+msgid "Activate"
+msgstr "активировать"
+
+#: main.php:38
+msgid "Latest Listings"
+msgstr "Последние Объявления"
+
+#: main.php:41
+msgid "There aren't listings available at this moment"
+msgstr "Есть не списки, доступные в данный момент"
+
+#: main.php:46 search.php:81
+msgid "Grid"
+msgstr "сетка"
+
+#: main.php:57
+msgid "See all listings"
+msgstr "Смотреть все предложения"
+
+#: search-sidebar.php:38
+msgid "Your search"
+msgstr "Ваш поиск"
+
+#: search-sidebar.php:51
+msgid "Show only"
+msgstr "Показать только"
+
+#: search-sidebar.php:54
+msgid "listings with pictures"
+msgstr "объявления с фотографиями"
+
+#: search-sidebar.php:62
+msgid "Min"
+msgstr "минимум"
+
+#: search-sidebar.php:64
+msgid "Max"
+msgstr "максимальная"
+
+#: search-sidebar.php:84
+msgid "Apply"
+msgstr "применять"
+
+#: search-sidebar.php:89
+msgid "Refine category"
+msgstr "Уточните категорию"
+
+#: search.php:55
+msgid "Selected"
+msgstr "выбранный"
+
+#: search.php:56
+msgid "Nothing selected, input was"
+msgstr "Ничего не выбрано, вход был"
+
+#: search.php:71
+msgid "There are no results matching \"%s\""
+msgstr "Там нет результатов, соответствующих \"%s\""
+
+#: search.php:75
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d из %3$d объявлений"
+
+#: search.php:78
+msgid "Show filters"
+msgstr "Показать фильтры"
+
+#: search.php:85
+msgid "Sort by"
+msgstr "Сортировать по"
+
+#: search.php:121
+msgid "Premium listings"
+msgstr "Премиум объявления"
+
+#: search.php:141
+msgid "Other searches that may interest you"
+msgstr "Другие запросы, которые могут вас заинтересовать"
+
+#: user-alerts.php:39
+msgid "You do not have any alerts yet"
+msgstr "Вы не имеют никаких предупреждений еще"
+
+#: user-alerts.php:46
+msgid "Alert"
+msgstr "тревога"
+
+#: user-alerts.php:46
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Это действие не может быть отменено. Вы уверены, что хотите продолжить?"
+
+#: user-alerts.php:46
+msgid "Delete this alert"
+msgstr "Удалить это оповещение"
+
+#: user-change_email.php:33 user-change_email.php:38
+msgid "Change e-mail"
+msgstr "Изменение электронной почте"
+
+#: user-change_email.php:46
+msgid "Current e-mail"
+msgstr "Текущий адрес электронной почты"
+
+#: user-change_email.php:52
+msgid "New e-mail"
+msgstr "Новый электронный"
+
+#: user-change_password.php:45
+msgid "Current password"
+msgstr "текущий пароль"
+
+#: user-change_password.php:51 user-forgot_password.php:39
+msgid "New password"
+msgstr "новый пароль"
+
+#: user-change_password.php:57 user-forgot_password.php:45
+msgid "Repeat new password"
+msgstr "Повторите новый пароль"
+
+#: user-change_username.php:50
+msgid "Username: this field is required"
+msgstr "Имя пользователя: это поле не требуется"
+
+#: user-change_username.php:75
+msgid "The username is available"
+msgstr "Имя пользователя доступно"
+
+#: user-change_username.php:77
+msgid "The username is NOT available"
+msgstr "Имя пользователя не доступен"
+
+#: user-change_username.php:94
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: user-forgot_password.php:30 user-recover.php:30
+msgid "Recover your password"
+msgstr "Восстановить пароль"
+
+#: user-items.php:41
+msgid "My listings"
+msgstr "Мои объявления"
+
+#: user-items.php:43
+msgid "No listings have been added yet"
+msgstr "Ничего не было добавлено еще"
+
+#: user-login.php:30
+msgid "Access to your account"
+msgstr "Доступ к вашей учетной записи"
+
+#: user-login.php:44 user-register.php:52
+msgid "Password"
+msgstr "пароль"
+
+#: user-login.php:51
+msgid "Remember me"
+msgstr "Запомни меня"
+
+#: user-login.php:54
+msgid "Log in"
+msgstr "войти"
+
+#: user-login.php:58
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+#: user-profile.php:52
+msgid "User type"
+msgstr "Тип пользователя"
+
+#: user-profile.php:58
+msgid "Cell phone"
+msgstr "мобильный телефон"
+
+#: user-profile.php:64
+msgid "Phone"
+msgstr "телефон"
+
+#: user-profile.php:88
+msgid "City area"
+msgstr "площадь города"
+
+#: user-profile.php:100
+msgid "Website"
+msgstr "сайт"
+
+#: user-public-profile.php:67
+msgid "<strong>Address:</strong> %1$s"
+msgstr "<strong> адрес: </ strong>%1$s"
+
+#: user-public-profile.php:70
+msgid "<strong>Location:</strong> %1$s"
+msgstr "<strong> расположение: </ strong> %1$s"
+
+#: user-public-profile.php:75
+msgid "User description"
+msgstr "описание пользователя"
+
+#: user-public-profile.php:80
+msgid "Latest listings"
+msgstr "Последние объявления"
+
+#: user-recover.php:45
+msgid "Send me a new password"
+msgstr "Прислать новый пароль"
+
+#: user-register.php:31
+msgid "Register an account for free"
+msgstr "Зарегистрировать аккаунт бесплатно"
+
+#: user-register.php:58
+msgid "Repeat password"
+msgstr "повторите пароль"
+
+#: user-register.php:62
+msgid "Passwords don't match"
+msgstr "Пароли не совпадают"
+
+#: user-register.php:69
+msgid "Create"
+msgstr "создать"
+
+#: user-sidebar.php:23
+msgid "Display menu"
+msgstr "меню дисплея"
+
+#: user-sidebar.php:29
+msgid "Are you sure you want to delete your account?"
+msgstr "Вы уверены, что хотите удалить свой аккаунт?"
+
+#. Theme Name of the plugin/theme
+msgid "aiclassy"
+msgstr "aiclassy"
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://osclass.org/"
+msgstr "http://osclass.org/"
+
+#. Description of the plugin/theme
+msgid "aiclassy theme"
+msgstr "aiclassy тема"
+
+#. Author of the plugin/theme
+msgid "Wdnec"
+msgstr "Wdnec"
+
+#: header.php:header
+msgid "Sign In"
+msgstr "Вход"
+
+#: header.php:header
+msgid "Sign Out"
+msgstr "выйти из системы"
+
+#: header.php:header
+msgid "Sign Up"
+msgstr "Подписаться"
+
+#: header.php:header
+msgid "Add classified"
+msgstr "Добавить классифицируется"
+
+#: header.php:header
+msgid "Home"
+msgstr "домой"
+
+#: header.php:header
+msgid "Advanced"
+msgstr "продвинутый"
+
+#: item-post.php:body
+msgid "Classified details"
+msgstr "объявления детали"
+
+#: header.php:body
+msgid "Classified more information"
+msgstr "Доска больше информации"
+
+#: header.php:body
+msgid "Classified Location"
+msgstr "Доска Откуда"
+
+#: header.php:body
+msgid "Classified images"
+msgstr "объявления изображений"
+
+#: header.php:body
+msgid "Your personal details"
+msgstr "Ваши личные данные"
+
+#: header.php:body
+msgid "I agree to the"
+msgstr "Я согласен"
+
+#: header.php:body
+msgid "Terms of Use"
+msgstr "Условия использования"
+
+#: header.php:body
+msgid "Color Schemes"
+msgstr "Цветовые схемы"
+
+msgid "Featured"
+msgstr "Рекомендуемые"
+
+#: function.php:sidebar
+msgid "Newest classifieds"
+msgstr "Новые объявления"
+
+#: function.php:sidebar
+msgid "Premium classifieds"
+msgstr "Премиум объявления"
+
+#: function.php:sidebar
+msgid "Categories"
+msgstr "категории"
+
+#: function.php:sidebar
+msgid "detail"
+msgstr "деталь"
+
+#: function.php:sidebar
+msgid "Details"
+msgstr "подробности"
+
+#: function.php:sidebar
+msgid "Seller"
+msgstr "продавец"
+
+#: user-register.php
+msgid "Full Name"
+msgstr "полное имя"
+
+#: user-register.php
+msgid "Your email"
+msgstr "Ваш адрес электронной почты"
+
+#: user-register.php
+msgid "Re-enter new password"
+msgstr "Re ввести новый пароль"
+
+#: contact.php
+msgid "Type in your message"
+msgstr "Введите ваше сообщение"
+
+#: contact.php
+msgid "Your text"
+msgstr "Ваш текст"
+
+#: contact.php
+msgid "Enter your email"
+msgstr "Введите адрес электронной почты"
+
+#: contact.php:
+msgid "Enter your subject"
+msgstr "Введите тему"
+
+#: sidebar:
+msgid "More"
+msgstr "более"
+
+# function.php
+msgid "Popular classifieds"
+msgstr "Популярные объявления"
+
+#: alert-form.php
+msgid "You have already subscribed to the alert"
+msgstr "Вы уже подписались на оповещения"
+
+#: alert-form.php
+msgid "Enter valid email"
+msgstr "Введите действительный адрес электронной почты"
+
+#: item.php
+msgid "Published date"
+msgstr "Дата публикации"
+
+#: functions.php:aiclassy_draw_top_regions()
+msgid "Top listing regions"
+msgstr "Топ регионы реклама"
+
+msgid "Terms & conditions"
+msgstr "Условия и условия"
+
+msgid "Newest"
+msgstr "новейший"
+
+msgid "Popular"
+msgstr "популярный"
+
+msgid "Premium"
+msgstr "премия"
+
+msgid "Theme developed by"
+msgstr "Тема, разработанная"
+
+msgid "Any Query?"
+msgstr "Любой запрос?"
+
+msgid "Purchase Theme"
+msgstr "Покупка тема"
+
+msgid "Products attributes"
+msgstr "атрибуты Продукты"
+
+msgid "Make"
+msgstr "сделать"
+
+msgid "Model"
+msgstr "модель"
+
+msgid "Add to watchlist"
+msgstr "Добавить в список наблюдения"
+
+msgid "Please login"
+msgstr "Пожалуйста, войдите"
+
+msgid "List all items from this seller"
+msgstr "Перечислите все предметы из этого продавца"
+
+msgid "Enter your name"
+msgstr "Введите ваше имя"
+
+msgid "Email address"
+msgstr "адрес электронной почты"

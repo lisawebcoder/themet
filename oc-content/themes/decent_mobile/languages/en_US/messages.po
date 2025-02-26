@@ -1,0 +1,1235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: decent Mobile Theme\n"
+"POT-Creation-Date: 2016-03-03 16:58+0500\n"
+"PO-Revision-Date: 2016-03-03 16:58+0500\n"
+"Last-Translator: \n"
+"Language-Team: info@osclassmobile.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-SearchPath-0: themes/decent_mobile\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/category_icons.php:15
+msgid "Mobile Category Settings"
+msgstr "Mobile Category Settings"
+
+#: admin/category_icons.php:24
+msgid "Select a Category Style"
+msgstr "Select a Category Style"
+
+#: admin/category_icons.php:38
+msgid "Categories in a row"
+msgstr "Categories in a row"
+
+#: admin/category_icons.php:53
+msgid "Show Category ID"
+msgstr "Show Category ID"
+
+#: admin/category_icons.php:56 admin/general.php:26 admin/general.php:37
+#: admin/general.php:48 admin/general.php:59 admin/general.php:70
+#: admin/general.php:81 admin/general.php:98 admin/general.php:109
+#: admin/general.php:120 admin/slider_settings.php:37
+#: admin/slider_settings.php:49
+msgid "Enable"
+msgstr "Enable"
+
+#: admin/category_icons.php:57 admin/general.php:27 admin/general.php:38
+#: admin/general.php:49 admin/general.php:60 admin/general.php:71
+#: admin/general.php:82 admin/general.php:99 admin/general.php:110
+#: admin/general.php:121 admin/slider_settings.php:38
+#: admin/slider_settings.php:50
+msgid "Disable"
+msgstr "Disable"
+
+#: admin/category_icons.php:67
+msgid "Category ID"
+msgstr "Category ID"
+
+#: admin/category_icons.php:70
+msgid ""
+"(Hint: In order to know category ID please enable the above option \"Show "
+"Category ID\")"
+msgstr ""
+"(Hint: In order to know category ID please enable the above option \"Show "
+"Category ID\")"
+
+#: admin/category_icons.php:78
+msgid "Category Icon Code"
+msgstr "Category Icon Code"
+
+#: admin/category_icons.php:81
+msgid ""
+"(Please find a variety of icon's <a href='http://fontawesome.io/icons/' "
+"target='_blank'>Click Here </a>)"
+msgstr ""
+"(Please find a variety of icon's <a href='http://fontawesome.io/icons/' "
+"target='_blank'>Click Here </a>)"
+
+#: admin/category_icons.php:88
+msgid "Category Icon Color"
+msgstr "Category Icon Color"
+
+#: admin/category_icons.php:91
+msgid "e.g 8BC34A"
+msgstr "e.g 8BC34A"
+
+#: admin/category_icons.php:98
+msgid ""
+"(Note: In order to remove the category icon just put the category ID in "
+"\"Category ID\" and submit)"
+msgstr ""
+"(Note: In order to remove the category icon just put the category ID in "
+"\"Category ID\" and submit)"
+
+#: admin/category_icons.php:101 admin/general.php:130 admin/logo.php:53
+#: admin/slider_settings.php:57 admin/support.php:29
+#: admin/theme_setting.php:166
+msgid "Save changes"
+msgstr "Save changes"
+
+#: admin/general.php:18
+msgid "Homepage Settings"
+msgstr "Homepage Settings"
+
+#: admin/general.php:23
+msgid "Touch to Drag (Sides menu)"
+msgstr "Touch to Drag (Sides menu)"
+
+#: admin/general.php:34
+msgid "Floating Header"
+msgstr "Floating Header"
+
+#: admin/general.php:45
+msgid "Header Location"
+msgstr "Header Location"
+
+#: admin/general.php:56
+msgid "Homepage Main Image"
+msgstr "Homepage Main Image"
+
+#: admin/general.php:67
+msgid "Homepage premium Ads Slider"
+msgstr "Homepage premium Ads Slider"
+
+#: admin/general.php:78
+msgid "Homepage Latest Ads Slider"
+msgstr "Homepage Latest Ads Slider"
+
+#: admin/general.php:91
+msgid "Detail Page Settings"
+msgstr "Detail Page Settings"
+
+#: admin/general.php:95
+msgid "Details Related Ads Slider"
+msgstr "Details Related Ads Slider"
+
+#: admin/general.php:106
+msgid "Show Ad Public Info"
+msgstr "Show Ad Public Info"
+
+#: admin/general.php:117
+msgid "Show Ad Publisher Info"
+msgstr "Show Ad Publisher Info"
+
+#: admin/home_banner.php:17
+msgid "Banner Image"
+msgstr "Banner Image"
+
+#: admin/home_banner.php:23 admin/logo.php:19
+msgid "Preview"
+msgstr "Preview"
+
+#: admin/home_banner.php:30
+msgid "Remove image"
+msgstr "Remove image"
+
+#: admin/home_banner.php:37
+msgid "No image has been uploaded yet"
+msgstr "No image has been uploaded yet"
+
+#: admin/home_banner.php:40
+msgid "Upload image"
+msgstr "Upload image"
+
+#: admin/home_banner.php:42
+msgid ""
+"<strong>Note:</strong> Uploading another image will overwrite the current "
+"image."
+msgstr ""
+"<strong>Note:</strong> Uploading another image will overwrite the current "
+"image."
+
+#: admin/home_banner.php:50
+msgid "Accepted image (png,gif,jpg)"
+msgstr "Accepted image (png,gif,jpg)"
+
+#: admin/home_banner.php:56
+msgid "Upload"
+msgstr "Upload"
+
+#: admin/home_banner.php:65 admin/logo.php:62
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "The images folder <strong>%s</strong> is not writable on your server"
+
+#: admin/home_banner.php:66
+msgid "Osclass can't upload the image from the administration panel."
+msgstr "Osclass can't upload the image from the administration panel."
+
+#: admin/home_banner.php:67 admin/logo.php:64
+msgid "Please make the aforementioned image folder writable."
+msgstr "Please make the aforementioned image folder writable."
+
+#: admin/home_banner.php:72 admin/logo.php:69
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+"To make a directory writable under UNIX execute this command from the shell:"
+
+#: admin/index.php:109
+msgid "osclassmobile.com"
+msgstr "osclassmobile.com"
+
+#: admin/index.php:112
+msgid "Live Support"
+msgstr "Live Support"
+
+#: admin/index.php:124
+msgid "General"
+msgstr "General"
+
+#: admin/index.php:125
+msgid "Theme Setting"
+msgstr "Theme Setting"
+
+#: admin/index.php:126
+msgid "Sliders Setting"
+msgstr "Sliders Setting"
+
+#: admin/index.php:127
+msgid "Mobile Logo"
+msgstr "Mobile Logo"
+
+#: admin/index.php:128
+msgid "Home Banner"
+msgstr "Home Banner"
+
+#: admin/index.php:129
+msgid "Categories Icon's"
+msgstr "Categories Icon's"
+
+#: admin/index.php:130
+msgid "Support"
+msgstr "Support"
+
+#: admin/logo.php:26
+msgid "Remove logo"
+msgstr "Remove logo"
+
+#: admin/logo.php:33
+msgid "No logo has been uploaded yet"
+msgstr "No logo has been uploaded yet"
+
+#: admin/logo.php:36
+msgid "Upload logo"
+msgstr "Upload logo"
+
+#: admin/logo.php:37
+msgid "The preferred size of the logo is 280x90 pixels."
+msgstr "The preferred size of the logo is 280x90 pixels."
+
+#: admin/logo.php:39
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+
+#: admin/logo.php:47
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logo image (png,gif,jpg)"
+
+#: admin/logo.php:63
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass can't upload the logo image from the administration panel."
+
+#: admin/slider_settings.php:18
+msgid "Slider Setting"
+msgstr "Slider Setting"
+
+#: admin/slider_settings.php:22
+msgid "Slides Per View "
+msgstr "Slides Per View "
+
+#: admin/slider_settings.php:34
+msgid "Free Mode"
+msgstr "Free Mode"
+
+#: admin/slider_settings.php:46
+msgid "Loop"
+msgstr "Loop"
+
+#: admin/support.php:18
+msgid "Support and Documentation"
+msgstr "Support and Documentation"
+
+#: admin/support.php:21
+msgid ""
+"Please go to the following link for theme documentation <a href=\"http://"
+"osclassmobile.com/documentation\" title=\"Mobile theme Documentation\" "
+"target=\"_blank\">Mobile theme Documentation</a>"
+msgstr ""
+"Please go to the following link for theme documentation <a href=\"http://"
+"osclassmobile.com/documentation\" title=\"Mobile theme Documentation\" "
+"target=\"_blank\">Mobile theme Documentation</a>"
+
+#: admin/support.php:22
+msgid ""
+"If you have any questions and feedback regarding the plugin, please email us "
+"at <a href=\"support@osclassmobile.com\">support@osclassmobile.com</a>"
+msgstr ""
+"If you have any questions and feedback regarding the plugin, please email us "
+"at <a href=\"support@osclassmobile.com\">support@osclassmobile.com</a>"
+
+#: admin/theme_setting.php:21
+msgid "Theme Color Scheme & Setting"
+msgstr "Theme Color Scheme & Setting"
+
+#: admin/theme_setting.php:31
+msgid "Select color Scheme "
+msgstr "Select color Scheme "
+
+#: admin/theme_setting.php:52
+msgid "Theme Color "
+msgstr "Theme Color "
+
+#: admin/theme_setting.php:63
+msgid "Body Background"
+msgstr "Body Background"
+
+#: admin/theme_setting.php:75
+msgid "Section Background"
+msgstr "Section Background"
+
+#: admin/theme_setting.php:87
+msgid "Heading's Color "
+msgstr "Heading's Color "
+
+#: admin/theme_setting.php:98
+msgid "Text Color (1) "
+msgstr "Text Color (1) "
+
+#: admin/theme_setting.php:109
+msgid "Text Color (2) "
+msgstr "Text Color (2) "
+
+#: admin/theme_setting.php:120
+msgid "Button Color "
+msgstr "Button Color "
+
+#: admin/theme_setting.php:134
+msgid "Post Button Background "
+msgstr "Post Button Background "
+
+#: admin/theme_setting.php:145
+msgid "Post Button Text Color "
+msgstr "Post Button Text Color "
+
+#: admin/theme_setting.php:156
+msgid "Post Button Border "
+msgstr "Post Button Border "
+
+#: index.php:105 index.php:123 index.php:133
+msgid "Decent mobile theme settings updated correctly"
+msgstr "Decent mobile theme settings updated correctly"
+
+#: index.php:148
+msgid "The logo image has been uploaded correctly"
+msgstr "The logo image has been uploaded correctly"
+
+#: index.php:150 index.php:181
+msgid "An error has occurred, please try again"
+msgstr "An error has occurred, please try again"
+
+#: index.php:161
+msgid "The logo image has been removed"
+msgstr "The logo image has been removed"
+
+#: index.php:163 index.php:194
+msgid "Image not found"
+msgstr "Image not found"
+
+#: index.php:179
+msgid "The banner image has been uploaded correctly"
+msgstr "The banner image has been uploaded correctly"
+
+#: index.php:192
+msgid "The banner image has been removed"
+msgstr "The banner image has been removed"
+
+#: index.php:213
+msgid "Category icons settings updated correctly"
+msgstr "Category icons settings updated correctly"
+
+#: index.php:315
+msgid "Switch to mobile version"
+msgstr "Switch to mobile version"
+
+#: index.php:323
+msgid "Decent Mobile Theme"
+msgstr "Decent Mobile Theme"
+
+#: themes/decent_mobile/404.php:12
+msgid "Page not found"
+msgstr "Page not found"
+
+#: themes/decent_mobile/ajax_favorite.php:28
+#: themes/decent_mobile/ajax_favorite.php:33
+msgid " View List"
+msgstr " View List"
+
+#: themes/decent_mobile/ajax_favorite.php:37
+msgid "Please login"
+msgstr "Please login"
+
+#: themes/decent_mobile/alert-form.php:16
+msgid "You have successfully subscribed to the alert"
+msgstr "You have successfully subscribed to the alert"
+
+#: themes/decent_mobile/alert-form.php:17
+msgid "Invalid email address"
+msgstr "Invalid email address"
+
+#: themes/decent_mobile/alert-form.php:18
+msgid "There was a problem with the alert"
+msgstr "There was a problem with the alert"
+
+#: themes/decent_mobile/alert-form.php:49
+msgid "Subscribe to this search"
+msgstr "Subscribe to this search"
+
+#: themes/decent_mobile/alert-form.php:65
+msgid "Subscribe now"
+msgstr "Subscribe now"
+
+#: themes/decent_mobile/contact.php:16
+msgid "<strong>Contact Us</strong>"
+msgstr "<strong>Contact Us</strong>"
+
+#: themes/decent_mobile/contact.php:17
+msgid "Fill up the below form to contact us."
+msgstr "Fill up the below form to contact us."
+
+#: themes/decent_mobile/contact.php:25
+msgid "Subject (optional)"
+msgstr "Subject (optional)"
+
+#: themes/decent_mobile/contact.php:29
+msgid "Your name (optional)"
+msgstr "Your name (optional)"
+
+#: themes/decent_mobile/contact.php:33
+#: themes/decent_mobile/item-send-friend.php:34
+msgid "Your e-mail address"
+msgstr "Your e-mail address"
+
+#: themes/decent_mobile/contact.php:35
+#: themes/decent_mobile/item-send-friend.php:46
+#: themes/decent_mobile/user-public-profile.php:73
+msgid "Message"
+msgstr "Message"
+
+#: themes/decent_mobile/contact.php:40
+#: themes/decent_mobile/item-send-friend.php:49
+msgid "Send"
+msgstr "Send"
+
+#: themes/decent_mobile/footer.php:99 themes/decent_mobile/footer.php:121
+#: themes/decent_mobile/item.php:265 themes/decent_mobile/item.php:311
+#: themes/decent_mobile/item.php:334 themes/decent_mobile/item.php:377
+#: themes/decent_mobile/item.php:480 themes/decent_mobile/main.php:87
+#: themes/decent_mobile/main.php:126 themes/decent_mobile/main.php:179
+#: themes/decent_mobile/search.php:156
+#: themes/decent_mobile/user-public-profile.php:270
+msgid "Close"
+msgstr "Close"
+
+#: themes/decent_mobile/footer.php:100 themes/decent_mobile/header.php:81
+#: themes/decent_mobile/header.php:120 themes/decent_mobile/header.php:148
+#: themes/decent_mobile/item.php:84 themes/decent_mobile/item.php:312
+msgid "Location"
+msgstr "Location"
+
+#: themes/decent_mobile/footer.php:122 themes/decent_mobile/item.php:335
+msgid "Language"
+msgstr "Language"
+
+#: themes/decent_mobile/functions.php:41
+msgid "Title"
+msgstr "Title"
+
+#: themes/decent_mobile/functions.php:51
+msgid "Description"
+msgstr "Description"
+
+#: themes/decent_mobile/functions.php:200
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "This action can\\'t be undone. Are you sure you want to continue?"
+
+#: themes/decent_mobile/header.php:22
+msgid "Welcome"
+msgstr "Welcome"
+
+#: themes/decent_mobile/header.php:25
+msgid "My Dashboard"
+msgstr "My Dashboard"
+
+#: themes/decent_mobile/header.php:26 themes/decent_mobile/main.php:13
+msgid "Publish an Ad"
+msgstr "Publish an Ad"
+
+#: themes/decent_mobile/header.php:27
+msgid "My Listings"
+msgstr "My Listings"
+
+#: themes/decent_mobile/header.php:28
+msgid "My Wishlist"
+msgstr "My Wishlist"
+
+#: themes/decent_mobile/header.php:29
+msgid "My Alerts"
+msgstr "My Alerts"
+
+#: themes/decent_mobile/header.php:31
+msgid "My Language"
+msgstr "My Language"
+
+#: themes/decent_mobile/header.php:44
+#: themes/decent_mobile/user-dashboard.php:70
+msgid "Logout"
+msgstr "Logout"
+
+#: themes/decent_mobile/header.php:46 themes/decent_mobile/item.php:282
+#: themes/decent_mobile/item.php:398 themes/decent_mobile/user-login.php:41
+#: themes/decent_mobile/user-register.php:55
+msgid "Login"
+msgstr "Login"
+
+#: themes/decent_mobile/header.php:51
+msgid "Site Links"
+msgstr "Site Links"
+
+#: themes/decent_mobile/header.php:54
+msgid "Home"
+msgstr "Home"
+
+#: themes/decent_mobile/header.php:55 themes/decent_mobile/header.php:101
+msgid "Search"
+msgstr "Search"
+
+#: themes/decent_mobile/header.php:60
+msgid "Contact Us"
+msgstr "Contact Us"
+
+#: themes/decent_mobile/header.php:71
+msgid "What are you looking for?"
+msgstr "What are you looking for?"
+
+#: themes/decent_mobile/header.php:72
+msgid "Type here..."
+msgstr "Type here..."
+
+#: themes/decent_mobile/header.php:75 themes/decent_mobile/item-post.php:55
+#: themes/decent_mobile/item.php:113
+msgid "Category"
+msgstr "Category"
+
+#: themes/decent_mobile/header.php:83
+msgid "Select a Region"
+msgstr "Select a Region"
+
+#: themes/decent_mobile/header.php:89 themes/decent_mobile/item-post.php:63
+msgid "Price"
+msgstr "Price"
+
+#: themes/decent_mobile/header.php:92
+msgid "Min"
+msgstr "Min"
+
+#: themes/decent_mobile/header.php:95
+msgid "Max"
+msgstr "Max"
+
+#: themes/decent_mobile/item-post.php:40
+msgid "Post Your ad for FREE!"
+msgstr "Post Your ad for FREE!"
+
+#: themes/decent_mobile/item-post.php:41
+msgid "Advertising with us cost you for absolutely nothing."
+msgstr "Advertising with us cost you for absolutely nothing."
+
+#: themes/decent_mobile/item-post.php:53
+msgid "General Information"
+msgstr "General Information"
+
+#: themes/decent_mobile/item-post.php:56
+msgid "Select a category"
+msgstr "Select a category"
+
+#: themes/decent_mobile/item-post.php:67
+msgid "Currency"
+msgstr "Currency"
+
+#: themes/decent_mobile/item-post.php:81
+msgid "Listing Location"
+msgstr "Listing Location"
+
+#: themes/decent_mobile/item-post.php:83
+#: themes/decent_mobile/user-profile.php:57
+msgid "Country"
+msgstr "Country"
+
+#: themes/decent_mobile/item-post.php:87
+#: themes/decent_mobile/user-profile.php:61
+msgid "Region"
+msgstr "Region"
+
+#: themes/decent_mobile/item-post.php:91
+#: themes/decent_mobile/user-profile.php:68
+msgid "City"
+msgstr "City"
+
+#: themes/decent_mobile/item-post.php:95
+#: themes/decent_mobile/user-profile.php:75
+msgid "City Area"
+msgstr "City Area"
+
+#: themes/decent_mobile/item-post.php:99
+#: themes/decent_mobile/user-profile.php:79
+msgid "Address"
+msgstr "Address"
+
+#: themes/decent_mobile/item-post.php:111
+msgid "Seller's information"
+msgstr "Seller's information"
+
+#: themes/decent_mobile/item-post.php:113 themes/decent_mobile/item.php:177
+#: themes/decent_mobile/user-profile.php:32
+#: themes/decent_mobile/user-register.php:27
+msgid "Name"
+msgstr "Name"
+
+#: themes/decent_mobile/item-post.php:117
+#: themes/decent_mobile/user-profile.php:36
+#: themes/decent_mobile/user-recover.php:23
+#: themes/decent_mobile/user-register.php:42
+msgid "E-mail"
+msgstr "E-mail"
+
+#: themes/decent_mobile/item-post.php:122
+msgid "Show e-mail on the item page"
+msgstr "Show e-mail on the item page"
+
+#: themes/decent_mobile/item-post.php:136
+msgid "Publish"
+msgstr "Publish"
+
+#: themes/decent_mobile/item-send-friend.php:15
+msgid "<strong>Send to a Friend</strong>"
+msgstr "<strong>Send to a Friend</strong>"
+
+#: themes/decent_mobile/item-send-friend.php:16
+msgid "Fill up the below form to share."
+msgstr "Fill up the below form to share."
+
+#: themes/decent_mobile/item-send-friend.php:23
+msgid "Item"
+msgstr "Item"
+
+#: themes/decent_mobile/item-send-friend.php:30
+msgid "Your name"
+msgstr "Your name"
+
+#: themes/decent_mobile/item-send-friend.php:39
+msgid "Your friend's name"
+msgstr "Your friend's name"
+
+#: themes/decent_mobile/item-send-friend.php:43
+msgid "Your friend's e-mail address"
+msgstr "Your friend's e-mail address"
+
+#: themes/decent_mobile/item.php:78
+msgid "Public info"
+msgstr "Public info"
+
+#: themes/decent_mobile/item.php:92
+msgid "Published"
+msgstr "Published"
+
+#: themes/decent_mobile/item.php:100
+msgid "Modified"
+msgstr "Modified"
+
+#: themes/decent_mobile/item.php:107
+msgid "Item ID"
+msgstr "Item ID"
+
+#: themes/decent_mobile/item.php:119
+msgid "Views"
+msgstr "Views"
+
+#: themes/decent_mobile/item.php:132 themes/decent_mobile/search_list.php:100
+#: themes/decent_mobile/search_list.php:132
+#: themes/decent_mobile/user-alerts.php:49
+#: themes/decent_mobile/user-public-profile.php:118
+msgid "Save Ad"
+msgstr "Save Ad"
+
+#: themes/decent_mobile/item.php:141
+msgid "Item Description"
+msgstr "Item Description"
+
+#: themes/decent_mobile/item.php:164
+msgid "Publisher Info"
+msgstr "Publisher Info"
+
+#: themes/decent_mobile/item.php:170
+#: themes/decent_mobile/user-public-profile.php:43
+#, php-format
+msgid ""
+"You must <a href=\"%s\">Login</a> or <a href=\"%s\">Register a account</a> "
+"in order to contact the advertiser"
+msgstr ""
+"You must <a href=\"%s\">Login</a> or <a href=\"%s\">Register a account</a> "
+"in order to contact the advertiser"
+
+#: themes/decent_mobile/item.php:188 themes/decent_mobile/user-dashboard.php:37
+msgid "Email"
+msgstr "Email"
+
+#: themes/decent_mobile/item.php:196 themes/decent_mobile/user-profile.php:52
+msgid "Phone"
+msgstr "Phone"
+
+#: themes/decent_mobile/item.php:206
+msgid "Total Ads by User:"
+msgstr "Total Ads by User:"
+
+#: themes/decent_mobile/item.php:220
+msgid "Related Ads"
+msgstr "Related Ads"
+
+#: themes/decent_mobile/item.php:258
+msgid "Report this advertisement!"
+msgstr "Report this advertisement!"
+
+#: themes/decent_mobile/item.php:266
+msgid "Report Advertisment"
+msgstr "Report Advertisment"
+
+#: themes/decent_mobile/item.php:271 themes/decent_mobile/item.php:387
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "The listing is expired. You can't contact the publisher."
+
+#: themes/decent_mobile/item.php:275
+msgid "It's your own listing, you can't report."
+msgstr "It's your own listing, you can't report."
+
+#: themes/decent_mobile/item.php:279 themes/decent_mobile/item.php:395
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"You must log in or register a new account in order to contact the advertiser"
+
+#: themes/decent_mobile/item.php:283 themes/decent_mobile/item.php:399
+msgid "Register for a free account"
+msgstr "Register for a free account"
+
+#: themes/decent_mobile/item.php:290
+msgid "Spam"
+msgstr "Spam"
+
+#: themes/decent_mobile/item.php:291
+msgid "Duplicated"
+msgstr "Duplicated"
+
+#: themes/decent_mobile/item.php:292
+msgid "Missing"
+msgstr "Missing"
+
+#: themes/decent_mobile/item.php:293
+msgid "Expired"
+msgstr "Expired"
+
+#: themes/decent_mobile/item.php:294
+msgid "Offensive"
+msgstr "Offensive"
+
+#: themes/decent_mobile/item.php:378
+#: themes/decent_mobile/user-public-profile.php:271
+msgid "Contact Publisher"
+msgstr "Contact Publisher"
+
+#: themes/decent_mobile/item.php:391
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "It's your own listing, you can't contact the publisher."
+
+#: themes/decent_mobile/item.php:412
+#: themes/decent_mobile/user-public-profile.php:289
+msgid "Your Name"
+msgstr "Your Name"
+
+#: themes/decent_mobile/item.php:416
+#: themes/decent_mobile/user-public-profile.php:293
+msgid "Your Email"
+msgstr "Your Email"
+
+#: themes/decent_mobile/item.php:420
+#: themes/decent_mobile/user-public-profile.php:297
+msgid "Phone Number (Optional)"
+msgstr "Phone Number (Optional)"
+
+#: themes/decent_mobile/item.php:424
+#: themes/decent_mobile/user-public-profile.php:301
+msgid "Your Message"
+msgstr "Your Message"
+
+#: themes/decent_mobile/item.php:430
+msgid "Attachment"
+msgstr "Attachment"
+
+#: themes/decent_mobile/item.php:451
+#: themes/decent_mobile/user-public-profile.php:323
+msgid "Enter the words above"
+msgstr "Enter the words above"
+
+#: themes/decent_mobile/item.php:453
+#: themes/decent_mobile/user-public-profile.php:325
+msgid "Help"
+msgstr "Help"
+
+#: themes/decent_mobile/item.php:461
+#: themes/decent_mobile/user-public-profile.php:333
+msgid "Send Message"
+msgstr "Send Message"
+
+#: themes/decent_mobile/item.php:481
+msgid "Location Map"
+msgstr "Location Map"
+
+#: themes/decent_mobile/main.php:33
+msgid "Premium Ads"
+msgstr "Premium Ads"
+
+#: themes/decent_mobile/main.php:72 themes/decent_mobile/main.php:111
+#: themes/decent_mobile/main.php:156
+msgid "Browse By Categories"
+msgstr "Browse By Categories"
+
+#: themes/decent_mobile/main.php:207
+msgid "Latest Ads"
+msgstr "Latest Ads"
+
+#: themes/decent_mobile/my_favorites.php:39
+msgid "My Saved Items"
+msgstr "My Saved Items"
+
+#: themes/decent_mobile/my_favorites.php:45
+#: themes/decent_mobile/user-items.php:21
+msgid "You don't have any items yet"
+msgstr "You don't have any items yet"
+
+#: themes/decent_mobile/my_favorites.php:68
+#: themes/decent_mobile/user-alerts.php:26
+msgid " Are you sure?"
+msgstr " Are you sure?"
+
+#: themes/decent_mobile/my_favorites.php:68
+#: themes/decent_mobile/user-items.php:47
+msgid "Delete"
+msgstr "Delete"
+
+#: themes/decent_mobile/my_favorites.php:80 themes/decent_mobile/search.php:27
+#: themes/decent_mobile/user-alerts.php:63
+#: themes/decent_mobile/user-items.php:66
+#: themes/decent_mobile/user-public-profile.php:133
+msgid "There are no results"
+msgstr "There are no results"
+
+#: themes/decent_mobile/search.php:15
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "There are no results matching \"%s\""
+
+#: themes/decent_mobile/search.php:157
+msgid "Create Alert"
+msgstr "Create Alert"
+
+#: themes/decent_mobile/search_list.php:33
+msgid "Sort by"
+msgstr "Sort by"
+
+#: themes/decent_mobile/user-alerts.php:17
+msgid "Search subscribed alerts"
+msgstr "Search subscribed alerts"
+
+#: themes/decent_mobile/user-alerts.php:22
+msgid "You don't have any alerts yet"
+msgstr "You don't have any alerts yet"
+
+#: themes/decent_mobile/user-alerts.php:26
+msgid "Alert"
+msgstr "Alert"
+
+#: themes/decent_mobile/user-alerts.php:26
+msgid "Delete this alert"
+msgstr "Delete this alert"
+
+#: themes/decent_mobile/user-change_email.php:15
+msgid "Change your e-mail"
+msgstr "Change your e-mail"
+
+#: themes/decent_mobile/user-change_email.php:16
+msgid "Fill up the below form to update your email."
+msgstr "Fill up the below form to update your email."
+
+#: themes/decent_mobile/user-change_email.php:24
+msgid "Current e-mail"
+msgstr "Current e-mail"
+
+#: themes/decent_mobile/user-change_email.php:30
+msgid "New E-mail"
+msgstr "New E-mail"
+
+#: themes/decent_mobile/user-change_email.php:35
+#: themes/decent_mobile/user-change_password.php:38
+#: themes/decent_mobile/user-profile.php:89
+msgid "Update"
+msgstr "Update"
+
+#: themes/decent_mobile/user-change_password.php:16
+msgid "Change your password"
+msgstr "Change your password"
+
+#: themes/decent_mobile/user-change_password.php:17
+msgid "Fill up the below form to update your password."
+msgstr "Fill up the below form to update your password."
+
+#: themes/decent_mobile/user-change_password.php:26
+msgid "Current Password"
+msgstr "Current Password"
+
+#: themes/decent_mobile/user-change_password.php:30
+msgid "New Password"
+msgstr "New Password"
+
+#: themes/decent_mobile/user-change_password.php:34
+msgid "Repeat new password"
+msgstr "Repeat new password"
+
+#: themes/decent_mobile/user-dashboard.php:31
+msgid "Useful Links"
+msgstr "Useful Links"
+
+#: themes/decent_mobile/user-dashboard.php:41
+#: themes/decent_mobile/user-login.php:30
+#: themes/decent_mobile/user-register.php:31
+msgid "Password"
+msgstr "Password"
+
+#: themes/decent_mobile/user-dashboard.php:46
+msgid "My listings"
+msgstr "My listings"
+
+#: themes/decent_mobile/user-dashboard.php:53
+msgid "Wishlist"
+msgstr "Wishlist"
+
+#: themes/decent_mobile/user-dashboard.php:57
+msgid "Alerts"
+msgstr "Alerts"
+
+#: themes/decent_mobile/user-dashboard.php:61
+msgid "Account"
+msgstr "Account"
+
+#: themes/decent_mobile/user-items.php:16
+msgid "All posted listings"
+msgstr "All posted listings"
+
+#: themes/decent_mobile/user-items.php:45
+msgid "Edit"
+msgstr "Edit"
+
+#: themes/decent_mobile/user-items.php:47
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "This action can not be undone. Are you sure you want to continue?"
+
+#: themes/decent_mobile/user-items.php:50
+msgid "Activate"
+msgstr "Activate"
+
+#: themes/decent_mobile/user-login.php:16
+msgid "ALREADY <strong>ACCOUNT?</strong>"
+msgstr "ALREADY <strong>ACCOUNT?</strong>"
+
+#: themes/decent_mobile/user-login.php:17
+#: themes/decent_mobile/user-register.php:17
+msgid "Fill up the below form to get access to site."
+msgstr "Fill up the below form to get access to site."
+
+#: themes/decent_mobile/user-login.php:26
+msgid "Username"
+msgstr "Username"
+
+#: themes/decent_mobile/user-login.php:33
+msgid "Remember me"
+msgstr "Remember me"
+
+#: themes/decent_mobile/user-login.php:44
+msgid "Sign Up"
+msgstr "Sign Up"
+
+#: themes/decent_mobile/user-login.php:49
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+#: themes/decent_mobile/user-profile.php:17
+msgid "Update your profile info"
+msgstr "Update your profile info"
+
+#: themes/decent_mobile/user-profile.php:18
+msgid "Fill up the below form to update your info."
+msgstr "Fill up the below form to update your info."
+
+#: themes/decent_mobile/user-profile.php:39
+msgid "Modify e-mail"
+msgstr "Modify e-mail"
+
+#: themes/decent_mobile/user-profile.php:39
+msgid "Modify password"
+msgstr "Modify password"
+
+#: themes/decent_mobile/user-profile.php:44
+msgid "User type"
+msgstr "User type"
+
+#: themes/decent_mobile/user-profile.php:48
+msgid "Cell phone"
+msgstr "Cell phone"
+
+#: themes/decent_mobile/user-profile.php:84
+msgid "Website"
+msgstr "Website"
+
+#: themes/decent_mobile/user-public-profile.php:74
+msgid "Call"
+msgstr "Call"
+
+#: themes/decent_mobile/user-public-profile.php:80
+msgid "User description"
+msgstr "User description"
+
+#: themes/decent_mobile/user-public-profile.php:92
+msgid "User Listings"
+msgstr "User Listings"
+
+#: themes/decent_mobile/user-public-profile.php:344
+msgid "You are not allowed!"
+msgstr "You are not allowed!"
+
+#: themes/decent_mobile/user-recover.php:14
+msgid "Recover your password"
+msgstr "Recover your password"
+
+#: themes/decent_mobile/user-recover.php:15
+msgid "Fill up the below form to get your password."
+msgstr "Fill up the below form to get your password."
+
+#: themes/decent_mobile/user-recover.php:31
+msgid "Submit Request"
+msgstr "Submit Request"
+
+#: themes/decent_mobile/user-register.php:16
+msgid "DON'T HAVE <strong>ACCOUNT?</strong>"
+msgstr "DON'T HAVE <strong>ACCOUNT?</strong>"
+
+#: themes/decent_mobile/user-register.php:35
+msgid "Re-type password"
+msgstr "Re-type password"
+
+#: themes/decent_mobile/user-register.php:37
+msgid "Passwords don't match"
+msgstr "Passwords don't match"
+
+#: themes/decent_mobile/user-register.php:52
+msgid "Create"
+msgstr "Create"
+
+#~ msgid "Mobile Theme"
+#~ msgstr "Mobile Theme"
+
+#~ msgid "Check"
+#~ msgstr "Check"
+
+#~ msgid "Free"
+#~ msgstr "Free"
+
+#~ msgid "Publish an item"
+#~ msgstr "Publish an item"
+
+#~ msgid "Edit your item"
+#~ msgstr "Edit your item"
+
+#~ msgid "Send to a friend"
+#~ msgstr "Send to a friend"
+
+#~ msgid "Contact seller"
+#~ msgstr "Contact seller"
+
+#~ msgid "page"
+#~ msgstr "page"
+
+#~ msgid "Show all items"
+#~ msgstr "Show all items"
+
+#~ msgid "Create a new account"
+#~ msgstr "Create a new account"
+
+#~ msgid "Dashboard"
+#~ msgstr "Dashboard"
+
+#~ msgid "Manage my items"
+#~ msgstr "Manage my items"
+
+#~ msgid "Manage my alerts"
+#~ msgstr "Manage my alerts"
+
+#~ msgid "Update my profile"
+#~ msgstr "Update my profile"
+
+#~ msgid "Change my email"
+#~ msgstr "Change my email"
+
+#~ msgid "Change my password"
+#~ msgstr "Change my password"
+
+#~ msgid "Recover my password"
+#~ msgstr "Recover my password"
+
+#~ msgid "Contact"
+#~ msgstr "Contact"
+
+#~ msgid "Item Location"
+#~ msgstr "Item Location"
+
+#~ msgid "New password"
+#~ msgstr "New password"
+
+#~ msgid "Change password"
+#~ msgstr "Change password"
+
+#~ msgid "ie. PHP Programmer"
+#~ msgstr "ie. PHP Programmer"
+
+#~ msgid "To (seller)"
+#~ msgstr "To (seller)"
+
+#~ msgid "Phone number"
+#~ msgstr "Phone number"
+
+#~ msgid "Send message"
+#~ msgstr "Send message"
+
+#~ msgid "Access to your account"
+#~ msgstr "Access to your account"
+
+#~ msgid "Log in"
+#~ msgstr "Log in"
+
+#~ msgid "Your email address"
+#~ msgstr "Your email address"
+
+#~ msgid "optional"
+#~ msgstr "optional"
+
+#~ msgid "Your Favorites Ads"
+#~ msgstr "Your Favorites Ads"
+
+#~ msgid "You are watching %d items"
+#~ msgstr "You are watching %d items"
+
+#~ msgid "You must <a href=\""
+#~ msgstr "You must <a href=\""
+
+#~ msgid "This action can't be undone. Are you sure you want to continue?"
+#~ msgstr "This action can't be undone. Are you sure you want to continue?"
+
+#~ msgid ""
+#~ "In order to get your Android app please contact us at <a href="
+#~ "\"support@osclassmobile.com\">support@osclassmobile.com</a>"
+#~ msgstr ""
+#~ "In order to get your Android app please contact us at <a href="
+#~ "\"support@osclassmobile.com\">support@osclassmobile.com</a>"
+
+#~ msgid "Osclass decent_mobile app settings updated correctly"
+#~ msgstr "Osclass decent_mobile app settings updated correctly"
+
+#~ msgid "Switch to decent_mobile version"
+#~ msgstr "Switch to decent_mobile version"
+
+#~ msgid "Subject"
+#~ msgstr "Subject"
+
+#~ msgid "Post your ad for FREE!"
+#~ msgstr "Post your ad for FREE!"
+
+#~ msgid "Photos"
+#~ msgstr "Photos"
+
+#~ msgid "Add new photo"
+#~ msgstr "Add new photo"
+
+#~ msgid "Post an Ad"
+#~ msgstr "Post an Ad"
+
+#~ msgid "Your watchlist"
+#~ msgstr "Your watchlist"
+
+#~ msgid "You have sucessfully subscribed to the alert"
+#~ msgstr "You have sucessfully subscribed to the alert"
+
+#~ msgid "Ofensive"
+#~ msgstr "Ofensive"
+
+#~ msgid "Brows By Categories"
+#~ msgstr "Brows By Categories"
+
+#~ msgid "You do not have any alerts yet"
+#~ msgstr "You do not have any alerts yet"
+
+#~ msgid "New pasword"
+#~ msgstr "New pasword"
+
+#~ msgid "Repeat new pasword"
+#~ msgstr "Repeat new pasword"
+
+#~ msgid "You are watching %d item"
+#~ msgid_plural "You are watching %d items"
+#~ msgstr[0] "You are watching %d item"
+#~ msgstr[1] "You are watching %d items"
+
+#~ msgid "SAVE AD"
+#~ msgstr "SAVE AD"
+
+#~ msgid "Item Discription"
+#~ msgstr "Item Discription"

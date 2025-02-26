@@ -1,0 +1,13 @@
+v:1.0.0
+It will show banner on home page of aiclassy theme.
+Banner will be added from admin panel of OSClass.
+Atleast two banner must be added to show slider on home page.
+
+v:1.0.1
+Banner click functionality added.
+Language files are updated.
+From validation added on insert banner and delete banner.
+
+v:1.0.2
+configure option on plugin list added.
+html5 image accept attribute added.

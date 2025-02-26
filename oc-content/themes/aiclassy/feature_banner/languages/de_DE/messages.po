@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OSClass\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: shahab <shahab@wdnec.com>\n"
+"Language-Team: OSClass <info@osclass.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"Plural-Forms: nplurals=2; plural=n !=1;\n"
+"X-Poedit-Basepath: .\n"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:41
+msgid "Banner Delete successfully"
+msgstr "Banner erfolgreich gelöscht"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:49,
+#: 70
+msgid "error upload"
+msgstr "Fehler Upload"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:27
+msgid "Insert Banner"
+msgstr "Banner einfügen"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:28
+msgid "Insert"
+msgstr "Insert"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:56
+msgid "Banner added successfully"
+msgstr "Banner erfolgreich hinzugefügt"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:59
+msgid "Banner not added"
+msgstr "Banner nicht hinzugefügt"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:78
+msgid "Banner not updated"
+msgstr "Banner nicht aktualisiert"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:84,88
+msgid "Banner updated successfully"
+msgstr "Banner erfolgreich aktualisiert"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:96
+msgid "Update Banner"
+msgstr "Update-Banner"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:97
+msgid "Update"
+msgstr "Aktualisierung"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:127
+msgid "Warning"
+msgstr "Warnung"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:126
+msgid "Add atleast 2 Banner to show"
+msgstr "Fügen Sie mindestens 2 Banner zeigen"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:129
+msgid "Banner size must be 846 x 282 for proper view of slide bar"
+msgstr "Banner Größe muss 846 x 282 für die richtige Ansicht der Schieberegler sein"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:146,165
+msgid "Banner name"
+msgstr "banner Namen"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:147
+msgid "Select Banner"
+msgstr "Wählen Sie Banner"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:166
+msgid "Banner file"
+msgstr "banner-Datei"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:148,167
+msgid "Option"
+msgstr "Option"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:162
+msgid "Banner List"
+msgstr "banner Liste"
+

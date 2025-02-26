@@ -1,0 +1,88 @@
+# Translation of 3.0.x in Portuguese (Brazil)
+# This file is distributed under the same license as the 3.0.x package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-11-24 18:45+0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: 3.0.x\n"
+"POT-Creation-Date: \n"
+"Last-Translator: shahab <shahab@wdnec.com>\n"
+"Language-Team: \n"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:41
+msgid "Banner Delete successfully"
+msgstr "Com sucesso Bandeira Deleted"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:49,
+#: 70
+msgid "error upload"
+msgstr "Upload de erro"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:27
+msgid "Insert Banner"
+msgstr "Inserir um baner"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:28
+msgid "Insert"
+msgstr "Insert"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:56
+msgid "Banner added successfully"
+msgstr "Bandeira adicionada com sucesso"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:59
+msgid "Banner not added"
+msgstr "Bandeira não acrescentou"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:78
+msgid "Banner not updated"
+msgstr "Bandeira não atualizado"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:84,88
+msgid "Banner updated successfully"
+msgstr "Bandeira atualizado com sucesso"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:96
+msgid "Update Banner"
+msgstr "atualização bandeira"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:97
+msgid "Update"
+msgstr "atualizar"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:127
+msgid "Warning"
+msgstr "aviso"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:126
+msgid "Add atleast 2 Banner to show"
+msgstr "Adicione pelo menos 2 Banner para mostrar"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:129
+msgid "Banner size must be 846 x 282 for proper view of slide bar"
+msgstr "Tamanho do Banner deve ser 846 x 282 para o conceito correto de barra deslizante"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:146,165
+msgid "Banner name"
+msgstr "nome da bandeira"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:147
+msgid "Select Banner"
+msgstr "Escolha um banner"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:166
+msgid "Banner file"
+msgstr "arquivo de banner"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:148,167
+msgid "Option"
+msgstr "opção"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:162
+msgid "Banner List"
+msgstr "Lista bandeira"
+

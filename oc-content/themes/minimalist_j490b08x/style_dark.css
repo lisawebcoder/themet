@@ -1,0 +1,64 @@
+body{background-color: #000; color: #ccc;}
+a{color: #ddd;}
+a:hover{color: #c9c9c9;}
+
+h1, h2, h3,.item #type_dates em.price{color:#fff;}
+
+#header #logo a{color: #eee;}
+#header #logo a:hover{color: #fff;}
+
+
+#header,
+div.breadcrumb,
+#footer,
+.form_publish, 
+table.grid th,.related_ads table th,
+table.grid td,.related_ads table td,
+.item #type_dates,
+.item #item_location li,
+.item #contact ,
+table.grid td.photo img,
+.related_ads table td.photo img,
+.add_item .box,
+.user_account #sidebar li{border-color: #333;}
+
+.odd td,
+.odd,
+.premium_odd td,
+.premium_odd { background-color:#111111; }
+table.grid tr:hover td,.related_ads table tr:hover td{border-color: #666;}
+
+#header #user_menu li ul,
+#item_head #report span,
+#header #user_menu li form,
+.premium_label,
+.item #useful_info,
+.paginate a:hover,
+.paginate .searchPaginationSelected{background-color: #333;}
+
+
+
+.breadcrumb{color: #999;}
+.breadcrumb a{color: #999;}
+.breadcrumb a:hover{color: #ccc;}
+
+/* tabs */
+ul.tabbernav{border-color: #444;}
+.tabberlive .tabbertab,
+ul.tabbernav li.tabberactive a,
+ul.tabbernav li.tabberactive a:hover{background-color: #333; color: #fff; border-color: #444;}
+ul.tabbernav li a{background-color: #111;color: #999;border-color: #444;}
+ul.tabbernav li a:hover{color: #fff; }
+
+/* buttons */
+.button,
+button[type="submit"],
+input[type="submit"],
+input[type="button"]{
+	background-color: #000;
+	color: #fff;
+	border: solid 1px #999;
+}
+.button:hover {text-decoration: none; color: #eee;}
+
+.ui-menu .ui-menu-item a{color: #666;}

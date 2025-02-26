@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OSClass\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 18:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: shahab <shahab@wdnec.com>\n"
+"Language-Team: OSClass <info@osclass.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"Plural-Forms: nplurals=2; plural=n !=1;\n"
+"X-Poedit-Basepath: .\n"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:41
+msgid "Banner Delete successfully"
+msgstr "بنر حذف موفقیت"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:49,
+#: 70
+msgid "error upload"
+msgstr "بارگذاری خطا"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:27
+msgid "Insert Banner"
+msgstr "درج بنر"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:28
+msgid "Insert"
+msgstr "درج"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:56
+msgid "Banner added successfully"
+msgstr "بنر با موفقیت اضافه شده است"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:59
+msgid "Banner not added"
+msgstr "بنر اضافه نمی"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:78
+msgid "Banner not updated"
+msgstr "بنر به روز نمی"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:84,88
+msgid "Banner updated successfully"
+msgstr "بنر با موفقیت به روز شده"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:96
+msgid "Update Banner"
+msgstr "به روز رسانی بنر"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:97
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:127
+msgid "Warning"
+msgstr "هشدار"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:129
+msgid "Banner size must be 846 x 282 for proper view of slide bar"
+msgstr "اندازه بنر باید 846 X 282 برای مشاهده مناسب از نوار کشویی شود"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:126
+msgid "Add atleast 2 Banner to show"
+msgstr "اضافه کردن حداقل 2 بنر برای نشان دادن"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:146,165
+msgid "Banner name"
+msgstr "نام بنر"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:147
+msgid "Select Banner"
+msgstr "انتخاب بنر"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:166
+msgid "Banner file"
+msgstr "Banner file"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:148,167
+msgid "Option"
+msgstr "انتخاب"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:162
+msgid "Banner List"
+msgstr "فهرست بنر"
+

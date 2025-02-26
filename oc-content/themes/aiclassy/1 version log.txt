@@ -1,0 +1,437 @@
+/*
+* V 2.3.3
+*/
+ ***********
+*    new    *
+ ***********
+ * Added search bar on slider.											(main.php, admin/settings.php)
+ * custom field resize													(item-post.php)
+ * premium listings layout changes.										(loop-single-premium.php)
+ *
+ ***********
+*  update   *
+ ***********
+ * fixed login bug in permalinks enabled.							 	(functions.php)
+ * fixed cities bug in edit item										(item-post.php)
+ * fixed layouts.
+ * changed item.php layout to both sidebars								(item.php)
+ * 
+/*
+* V 2.3.2
+*/
+ ***********
+*    new    *
+ ***********
+ * Added Banner + Category layout										(main.php, admin/settings.php)
+ * 
+ *
+ ***********
+*  update   *
+ ***********
+ * removed extra spaces to align categories							  	(css/style.css)
+ * Add auto move to carousel.											(js/item-carousel.js)
+ * changed item.php layout												(item.php)
+ * 
+/*
+* V 2.3.1
+*/
+ ***********
+*    new    *
+ ***********
+ * Added jssor slider													(header.php, functions.php)
+ *
+ *
+ ***********
+*  update   *
+ ***********
+ * 
+ * 
+/*
+* V 2.3.0
+*/
+ ***********
+*    new    *
+ ***********
+ * Added jssor slider													(header.php, functions.php)
+ * Removed Slides.js slider												(common/head.php)
+ * Added image/premium list slider option.								(admin/settings.php, functions.php)
+ * Added slider wih captions.											(feature_banner/ModelFeature.php)
+ * Added premium listings on search page.								(search.php)
+ * Added advertisement options.											(admin/advertisement.php,functions.php)
+ *
+ ***********
+*  update   *
+ ***********
+ * changed the lists animations							  				(js/animation.js)
+ * changed the premium lists background colours.						(css/style.css, loop-single.php, loop-single-premium.php)
+ * 
+ * 
+/*
+* V 2.2.9
+*/
+ ***********
+*    new    *
+ ***********
+ * Added page facebook enable/disable option.							(functions.php, admin/settings.php)
+ * Added Terms & conditions Page option									(admin/settings.php, functions.php, item-post.php)
+ * Added page-main-no-advertisement.php layout
+ * 
+ *
+ 
+ ***********
+*  update   *
+ ***********
+ * moved the refine category area below subscribe form  				(main.css, item.php, functons.php)
+ * 
+/*
+* V 2.2.8
+*/
+ ***********
+*    new    *
+ ***********
+ * Added city search filter												(functions.php, admin/settings.php, footer.php, customajax.php)
+ * Added Animations														(animate.css, wow.js, animation.js, footer.php, header.php)							
+ * Added full width slider												(main.php, header.php)					
+ * Added search panel position after slider on main page				(main.php)
+ * Added page-main-full-slider.php , page-main-animation.php
+ * Added Languages														(languages/)
+ *
+ 
+ ***********
+*  update   *
+ ***********
+ * item seller information css changes									(main.css, item.php, functons.php)
+ * multiple category select item edit bug fix							(functions.php)	
+/*
+* V 2.2.7
+*/
+ ***********
+*    new    *
+ ***********
+ * Added related listings on item page									(functions.php, item.php)
+ * Added profile picture ability upload/see								(functions.php, item.php, user-public-profile.php, user-profile.php)							
+ * Neweset/Popular/Premium listings on sidebar							(admin/settings.php, functions.php, main.php, item-post.php, item.php, user-register.php)					
+ * 
+ * 
+ 
+ ***********
+*  update   *
+ ***********
+ * Responsive dropdowns													(main.css)
+ * location switched to sidebar											(item.php)	
+/*
+* V 2.2.6
+*/
+ ***********
+*    new    *
+ ***********
+ * Added Show as list functionality on Main page with Tabs				(functions.php, main.php)
+ * Added Tabs on Item page												(item.php)							
+ * Added cookies functionaliy for region and city						(funcions.php, header.php, admin/settings.php)					
+ * Added Refine category search an advance page							(search-sidebar.php, functions.php)
+ * Added Facebook page widget											(main.php, search-sidebar.php, item-post.php)
+ * 
+ 
+ ***********
+*  update   *
+ ***********
+ * Updated category list on Add classified	& search					(item-post.php, functions.php, search-sidebar.php)
+ * Updated carousel functionality.										(functions.php, admin/settings.php, assets/slick/slick-theme.css, css/main.css)
+ * Fixed category layout display										(functions.php)
+ *
+/*
+* V 2.2.5
+*/
+ ***********
+*    new    *
+ ***********
+ * Added Maps of Australia, Ireland, United Kingdom						(functions.php, admin/settings.php)
+ * Malaysia, Switzerland, France, Pakistan, Sweden,							
+ * Srilanka, Iran, Indonesia, Netherland, Bulgaria,					
+ * 
+ * 
+ * 
+ 
+ ***********
+*  update   *
+ ***********
+ * resolved style issue withoiut category sidebar						(item.php)
+ *
+ *
+ *
+ /*
+* V 2.2.4
+*/
+ ***********
+*    new    *
+ ***********
+ * multilevel categories on fixed navbar added							(functions.php, header.php,admin/settings.php)
+ * multilevel categories on Sidebar										(functions.php, item.php,main.php,item-post.php,admin/settings.php)
+ * Added Premium Item Carousel											(functions.php, main.php,admin/settings.php)
+ * 
+ * 
+ * 
+ * 
+ 
+ ***********
+*  update   *
+ ***********
+ * resolved captcha issue												(item.php)
+ * resolved Comment issues												(item.php)
+ *
+ *
+ *
+
+/*
+* V 2.2.3
+*/
+ ***********
+*    new    *
+ ***********
+ * categories on fixed navbar added										(functions.php, header.php,admin/settings.php)
+ * search panel  positions added										(functions.php, header.php,admin/settings.php)
+ * RTL support for RTL languages added									(header.php,common/head.php,functions.php)
+ * 
+ * 
+ * 
+ * 
+ 
+ ***********
+*  update   *
+ ***********
+ * custom.php error fixed												(custom.php)
+ * custom-user.php error fixed											(custom-user.php)
+ * user page responsive html fixed										(user-*.php)
+ * public profile link fixed on user pages								(functions.php)
+ * delete account link fixed on user-custom page						(user-custom.php, functions.php)
+ * header style change on session added									(functions.php,header.php)
+ * margin between logo and add classified button						(header.php,css/main.css)
+ * sidebar display bug fixed											(functions.php)
+ *
+ *
+ *
+
+/*
+* V 2.2.2
+*/
+ ***********
+*    new    *
+ ***********
+ 
+ ***********
+*  update   *
+ ***********
+ * premimum item have currency with price								(loop-single-premium.php)
+ * premimum item display number is customizable							(loop.php,functions.php)
+ * custom.php code is corrected and updated								(custom.php)
+ * slider thumbnail on item detail page is fixed						(js/globle.js)
+ 
+/*
+* V 2.2.1
+*/
+ ***********
+*    new    *
+ ***********
+ 
+ ***********
+*  update   *
+ ***********
+ * testing update function
+ * map setting option visiblity bug fixed								(functions.php,admin/settings.php,)
+ 
+ 
+ 
+/*
+* V 2.2.0
+*/
+ ***********
+*    new    *
+ ***********
+ * facebook login button added for facebook connect plugin				(fbc_login_url():header.php)
+ * html widget area added												(index.php)
+	1-> footer (above footer area)										(header.php)
+	2-> header (after header area)										(footer.php)
+	3-> user-signup (after heading of sign up and before form started	(user-register.php)
+	    on user register page)
+	4-> contact-address (the address box on contact page)				(contact.php)
+	5-> listing-post-top (after add classified heading and before 		(item-post.php)
+	    form started on add classified page page)
+	6-> listing-post-bottom (after add classified form fields and 		(item-post.php)
+	    before form submit button on add classified page page)
+	7-> terms-conditon (in penal body at term & condition page)			(page-terms-condition.php)
+ * custom terms and conditon page added									(page-terms-condition.php)
+ * new map layout option for home page added							(aiclassy_draw_panel_map():functions.php)
+	1-> USA																(images/US.png,map/US.php,admin/map/US_settings.php)
+	2-> ITALIA															(images/IT.png,map/IT.php,admin/map/IT_settings.php)
+	3-> ROMANIA															(images/RO.png,map/RO.php,admin/map/RO_settings.php)
+	4-> SPAIN															(images/ES.png,map/ES.php,admin/map/ES_settings.php)
+	5-> INDIA															(images/IN.png,map/IN.php,admin/map/IN_settings.php)
+	6-> BRAZIL															(images/BR.png,map/BR.php,admin/map/BR_settings.php)
+ * Custom favicon can be added to site form admin						(functions.php,admin/Favicon.php)
+ 
+ ***********
+*  update   *
+ ***********
+ * user menu have other plugin options									(aiclassy_private_user_menu():functions.php, addClass("list-group-item"):globel.js)
+ * feature banner plugin bug fix										(banner_item_style():functions.php,banner_slide_show():functions.php)
+ * admin menu added to admin hook										(aiclassy_admin_menu():functions.php)
+
+
+/*
+* V 2.1.0
+*/
+ ***********
+*    new    *
+ ***********
+* adsense added to the theme
+* languages added:														(./languagues/)
+	1-> French (France)
+	2-> Hungarian
+	3-> Japanese
+	4-> Dutch
+	5-> Norwegian
+	6-> Portuguese (Brazil)
+	7-> Portuguese (Portugal)
+	8-> Swedish
+	9-> Thai
+	10-> Turkish
+	11-> Chinese (Taiwan)
+	12-> Arabic
+	13-> Polish
+	14-> Indonesian
+	15-> Ukrainian
+	16-> Czech
+	17-> Romanian
+* feature banner functionality added to theme							(function.php,./feature_banner/)
+* header style added 													(./admin/setting.php, function.php, header.php)	
+* report listing enable/disable from admin on item.php					(functions.php,item.php)
+
+
+ ***********
+*  update   *
+ ***********
+* Category word corrected in "aiclassy_drew_category_select"			(function.php)
+* custom fields displayed in single item page							(item.php)
+* socialmedia links changing bug fixed									(function.php)
+* adsense are responsive												(function.php)
+* adsense type option added												(function.php,adsense.php)
+* adsense changed from sync to async ad unit							(function.php)
+* advertisement upload bug fixed										(function.php)
+* function "aiclassy_popular_ads_start" upgrade to 3 layer 				(function.php)
+	archtechture
+* email hide/show option fixed at single item page						(item.php)
+* advertisement area on search and single item page						(item.php, search-sidebar.php,user-register.php)
+	are fixed by adding advertisement position
+* alert on item-post.php changed to bootstrap							(item-post.php,functions.php)
+* subscribe alert on search bar ja validation fixed						(alert-form.php)
+* advertise upload remove bug fixed "theme_aiclassy_actions_admin"		(functions.php)
+
+
+/*
+* V 2.0.3
+*/
+ ***********
+*    new    *
+ ***********
+ * new function "aiclassy_drew_region_select"							(function.php)
+ * new function "aiclassy_drew_category_select"							(function.php)
+ * search options added "category" and "region"							(function.php)
+ * language display option added(on header or footer)					(header.php, footer.php, admin/setting.php, function.php)
+ * social media links added (on footer)									(function.php, footer.php)
+
+ ***********
+*  update   *
+ ***********
+* search gallary display in bootstarp									(search.php)
+* search options add in general and advance form 						(function.php,search-sidebar.php)
+	1-> category select
+	2-> region select 
+* spanish and italian language added									(./languagues/)
+
+
+
+/*
+* V 2.0.2
+*/
+ ***********
+*    new    *
+ ***********
+* new function "aiclassy_check_advertisement_area"    					(function.php)
+* new function "aiclassy_confirm_advertisement_area"    				(function.php)
+* new function "aiclassy_show_flash_message"    						(function.php)
+* new function "aiclassy_remove_ad"    									(function.php)
+* 3 new advertise areas added:
+	1-> above home page layer area
+	2-> below home page layer area
+	3-> right side single item page layer area
+
+Hooks added:
+* 1-> left-sidebar														(search.php:54)
+
+ ***********
+*  update   *
+ ***********
+* logo name changed from "logo" to "aiclassy_logo"						(function.php)
+* breadcrumb css changed in main.css file.								(css/main.css)
+* refine category list in search results page changed to panel list.	(function.php)
+* .less files, scss folder removed.
+* color_scheme changeed to min.css files only.
+* new argument added to aiclassy_draw_advertisement_area()				(function.php)
+
+
+/*
+* V 2.0.1
+*/
+ ***********
+*    new    *
+ ***********
+* funtion rename from 'aiclassy_draw_google_adsense' to 'aiclassy_draw_advertisement_area'.
+* home page style option added.
+* change oder of layer display. three options added.
+* change popular, premium and newest number of items.
+
+ ***********
+*  update   *
+ ***********
+* advertisement area update to aicheapwebhosting.com.					(function.php:aiclassy_draw_advertisement_area() )
+* remove padding from top 
+
+
+
+/*
+* V 2.0.0
+*/
+ ***********
+*    new    *
+ ***********
+* Change logo from osclass admin panel theme option.
+* Place holder in search box added and can be changed from osclass admin panel theme option.
+* Change the number of new listings, displayed on home page.
+* Change display style of search result page listings.
+* Change map link on contact us page.
+Hooks added:
+* 1-> left-side-header-end     											(header.php:26)
+* 2-> right-side-header-start											(header.php:28)
+* 3-> left-side-footer-end												(footer.php:12)
+* 4-> right-side-footer-start											(footer.php:18)
+ ***********
+*  update   *
+ ***********
+* css class update on main.php list boxs.
+
+
+
+/*
+* V 1.0.0
+*/
+ ***********
+*    new    *
+ ***********
+* First release.
+Hooks added:
+* 1-> main-banner														(main.php:43)
+
+
+
+
+

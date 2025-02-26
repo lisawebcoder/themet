@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Feature Banner for aiclassy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-29 10:47+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: shahab <shahab@wdnec.com>\n"
+"Language-Team: OSClass <info@osclass.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: /var/www/osclass-plugins-git/feature_banner\n"
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:41
+msgid "Banner Delete successfully"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:49,
+#: 70
+msgid "error upload"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:27
+msgid "Insert Banner"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:28
+msgid "Insert"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:56
+msgid "Banner added successfully"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:59
+msgid "Banner not added"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:78
+msgid "Banner not updated"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:84,88
+msgid "Banner updated successfully"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:96
+msgid "Update Banner"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:97
+msgid "Update"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:127
+msgid "Warning"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:126
+msgid "Add atleast 2 Banner to show"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:129
+msgid "Banner size must be 846 x 282 for proper view of slide bar"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:146,165
+msgid "Banner name"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:147
+msgid "Select Banner"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:166
+msgid "Banner file"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:148,167
+msgid "Option"
+msgstr ""
+
+#: /var/www/osclass-plugins-git/feature_banner/conf.php:162
+msgid "Banner List"
+msgstr ""
+
