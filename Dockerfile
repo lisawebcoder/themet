@@ -1,15 +1,16 @@
 # Use the official PHP-Apache image
 FROM php:8.1-apache
 
+# Switch to root user to ensure we have the necessary permissions
+USER root
+
 # Set environment variable to avoid interactive prompts during package installation
 ENV DEBIAN_FRONTEND=noninteractive
 
 # Update package lists and install necessary packages
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends \
-    gnupg2 \
-    default-mysql-client \
-    && rm -rf /var/lib/apt/lists/*
+    apt-get install -y lsb-release gnupg && \
+    rm -rf /var/lib/apt/lists/*
 
 # Add MySQL APT repository
 RUN echo "deb http://repo.mysql.com/apt/debian/ $(lsb_release -sc) mysql-5.7" > /etc/apt/sources.list.d/mysql.list && \
@@ -35,4 +36,5 @@ EXPOSE 80
 
 # Start Apache
 CMD ["apache2-foreground"]
+
 
