@@ -6,16 +6,16 @@
 define('MULTISITE', 0);
 
 /** MySQL database name for Osclass */
-define('DB_NAME', 'dbs133564');
+define('DB_NAME', 'themetdb');
 
 /** MySQL database username */
-define('DB_USER', 'dbu67955');
+define('DB_USER', 'themetdbpassword');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Cathy1107there!$');
+define('DB_PASSWORD', 'CaBnQ0Rb6jHXZCaslIhnBljhJXHu2ryF');
 
 /** MySQL hostname */
-define('DB_HOST', 'db5000138320.hosting-data.io');
+define('DB_HOST', 'dpg-cuvh4tfnoe9s73e4c35g-a');
 
 /** Database Table prefix */
 define('DB_TABLE_PREFIX', 'ospq_');
@@ -23,6 +23,6 @@ define('DB_TABLE_PREFIX', 'ospq_');
 /**define('REL_WEB_URL', '/osclassads/');*/
 define('REL_WEB_URL', '/');
 
-define('WEB_PATH', 'https://themet.thefriendsnetwork.ca/');
+define('WEB_PATH', 'https://themet-5ofx.onrender.com/');
 
 ?>
