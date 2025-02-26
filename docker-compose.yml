@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - .:/var/www/html
+    environment:
+      - DB_HOST=db
+      - DB_USER=themetdbpassword
+      - DB_PASSWORD=CaBnQ0Rb6jHXZCaslIhnBljhJXHu2ryF
+      - DB_NAME=themetdb
+    depends_on:
+      - db
+
+  db:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: themetdb
+      MYSQL_USER: themetdbpassword
+      MYSQL_PASSWORD: CaBnQ0Rb6jHXZCaslIhnBljhJXHu2ryF
+    volumes:
+      - db_data:/var/lib/mysql
+
+volumes:
+  db_data:

@@ -15,7 +15,8 @@ define('DB_USER', 'themetdbpassword');
 define('DB_PASSWORD', 'CaBnQ0Rb6jHXZCaslIhnBljhJXHu2ryF');
 
 /** MySQL hostname */
-define('DB_HOST', 'dpg-cuvh4tfnoe9s73e4c35g-a');
+define('DB_HOST', 'db'); //feb26th2025 Change this from 'dpg-cuvh4tfnoe9s73e4c35g-a'
+//define('DB_HOST', 'dpg-cuvh4tfnoe9s73e4c35g-a');
 
 /** Database Table prefix */
 define('DB_TABLE_PREFIX', 'ospq_');
