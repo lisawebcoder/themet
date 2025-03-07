@@ -63,11 +63,11 @@ if( OSC_DEBUG ) {
 
 require_once LIB_PATH . 'osclass/db.php';
 require_once LIB_PATH . 'osclass/Logger/LogDatabase.php';
-//march7th2025--comment out this line for now cuz we moved the DB folder to the versocntrl folder
+//march7th2025--comment out these lines for now cuz we moved the DB folder to the versocntrl folder
 #require_once LIB_PATH . 'osclass/classes/database/DBConnectionClass.php';
-require_once LIB_PATH . 'osclass/classes/database/DBCommandClass.php';
-require_once LIB_PATH . 'osclass/classes/database/DBRecordsetClass.php';
-require_once LIB_PATH . 'osclass/classes/database/DAO.php';
+#require_once LIB_PATH . 'osclass/classes/database/DBCommandClass.php';
+#require_once LIB_PATH . 'osclass/classes/database/DBRecordsetClass.php';
+#require_once LIB_PATH . 'osclass/classes/database/DAO.php';
 require_once LIB_PATH . 'osclass/model/SiteInfo.php';
 require_once LIB_PATH . 'osclass/helpers/hDatabaseInfo.php';
 require_once LIB_PATH . 'osclass/model/Preference.php';
