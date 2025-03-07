@@ -19,8 +19,8 @@
     if(PHP_SAPI==='cli') {
         define('CLI', true);
     }
-
-    require_once ABS_PATH . 'oc-load.php';
+//march7th2025--comment out this line for now cuz we moved the DB folder to the versocntrl folder
+   # require_once ABS_PATH . 'oc-load.php';
 
     if( CLI ) {
         $cli_params = getopt('p:t:');
