@@ -63,7 +63,8 @@ if( OSC_DEBUG ) {
 
 require_once LIB_PATH . 'osclass/db.php';
 require_once LIB_PATH . 'osclass/Logger/LogDatabase.php';
-require_once LIB_PATH . 'osclass/classes/database/DBConnectionClass.php';
+//march7th2025--comment out this line for now cuz we moved the DB folder to the versocntrl folder
+#require_once LIB_PATH . 'osclass/classes/database/DBConnectionClass.php';
 require_once LIB_PATH . 'osclass/classes/database/DBCommandClass.php';
 require_once LIB_PATH . 'osclass/classes/database/DBRecordsetClass.php';
 require_once LIB_PATH . 'osclass/classes/database/DAO.php';
